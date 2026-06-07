@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sad-song-for-two/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sad Song For Two](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sad-song-for-two/) |
+| **Get License** | [Request Licensing for Sad Song For Two](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sad-song-for-two/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel your heartbeat pulling me close
+> In this quiet shadow where the firelight glows
+> Let the midnight wrap us in a warm embrace
+> I just want to get lost in the lines of your face
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
