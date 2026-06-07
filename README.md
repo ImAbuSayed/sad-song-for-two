@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sad-song-for-two/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sad Song For Two](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sad-song-for-two/) |
+| **Get License** | [Official Music Licensing for Sad Song For Two](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sad-song-for-two/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4dd35a230a93aa4778ce64554ff089026f5e874bc793ce86fdfd8bb643eda49d` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
